@@ -1,4 +1,4 @@
-```
+
 # Plataforma de Streaming API 
 
 Esta é uma API backend para uma plataforma de streaming desenvolvida com Node.js, Express e MongoDB.
@@ -112,7 +112,3 @@ npm run dev
 
 Se você quiser contribuir com este projeto, sinta-se à vontade para abrir um pull request ou criar uma issue para discutir novos recursos, correções de bugs, etc.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
-```
