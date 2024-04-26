@@ -91,7 +91,8 @@ npm run dev
     ```json
     {
       "name": "Nome do Assinante",
-      "subscribedToChannel": "Canal Subscrito"
+      "subscribedToChannel": "Inscrito no canal",
+      "subscribeDate": "2024-04-28T00:00:00.000Z" // Data de inscrição opcional
     }
     ```
 
@@ -101,7 +102,7 @@ npm run dev
     ```json
     {
       "name": "Novo Nome",
-      "subscribedToChannel": "Novo Canal Subscrito"
+      "subscribedToChannel": "Novo Canal Inscrito"
     }
     ```
 
